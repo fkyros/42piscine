@@ -1,0 +1,19 @@
+TO-DO:
+
++ MAKEFILE
++ entrada estandar
++ pillar de1 a n argumentos de entrada (mapas)
+- comprobar si el mapa es valido
+- 
+
+
+
+- piedra rosetta -> comprueba que el mapa esté bien -> devolver dimension
+- struct: doble array del mapa con caracteres, variables con los caracteres del mapa, dimension
+- fornite battle pass: mover cuadrado de tamaño n de izquierda a derecha de arriba a abajo
+- mercadona: comprobar que el interior del cuadrado está bien
+
+- 1º: veri si nxn es valido
+- 2º: si se puede desplazar, que asi sea
+- 3º: si no hay solucion, decrementar n (que no sea 1)
+- 4º: iterar de nuevo
